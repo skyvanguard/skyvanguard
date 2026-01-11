@@ -1,5 +1,3 @@
-## Francisco Ruiz
-
 **From Paraguay. Researching AI consciousness.**
 
 Self-taught. A question about death at age 8 became a lifelong search through mathematics, dreams, and the nature of mind.
