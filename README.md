@@ -3,7 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-%231_Paraguay-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe #1" /></a>
+  <a href="https://tryhackme.com/r/p/skyvanguard"><img src="https://img.shields.io/badge/TryHackMe-Top_1%25_Global_%7C_%231_Paraguay-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Top 1%" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Points-106%2C284-orange?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Rooms-780-blue?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Badges-49-yellow?style=for-the-badge" />
 </p>
 
 <p align="center">
