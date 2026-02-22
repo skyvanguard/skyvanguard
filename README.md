@@ -39,6 +39,7 @@ Infrastructure    Servers, Cloud, Containers, Automation
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Kryon**](https://github.com/skyvanguard/Kryon) | Autonomous Cybersecurity Intelligence Platform — 20+ AI agents, 31 tool categories, 300+ LLM models | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI_Agents-FF6B6B?style=flat-square) |
 | [**mcp-vanguard**](https://github.com/skyvanguard/mcp-vanguard) | Security pentesting MCP Server with 22 tools. Windows/WSL bridge for Kali + Claude | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-00FF41?style=flat-square) |
 | [**infra-ops-mcp**](https://github.com/skyvanguard/infra-ops-mcp) | Comprehensive MCP server for infrastructure ops — 92 tools across 13 categories | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-00FF41?style=flat-square) |
 | [**infra-ops**](https://github.com/skyvanguard/infra-ops) | Infrastructure skills for Claude Code: diagnostics, incident triage, log analysis | ![Claude](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square) |
