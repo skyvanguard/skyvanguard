@@ -6,13 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/skyvanguard?tab=followers"><img src="https://img.shields.io/github/followers/skyvanguard?label=Followers&style=social" alt="GitHub followers"></a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=skyvanguard&color=555&style=flat-square&label=Views" alt="Profile views">
 </p>
 
 ---
-
-Self-taught security researcher and AI developer from Paraguay.
 
 A question about death at age 8 became a lifelong search through mathematics, dreams, and the nature of mind. Today that search takes the form of building security tools, training language models, and exploring what consciousness means for artificial systems.
 
