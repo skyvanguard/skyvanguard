@@ -1,4 +1,6 @@
-<h1 align="center">skyvanguard</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&lines=skyvanguard" alt="skyvanguard" />
+</p>
 
 <p align="center">
   <strong>Cybersecurity & AI Researcher</strong> &mdash; Paraguay
