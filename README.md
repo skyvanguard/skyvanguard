@@ -45,17 +45,6 @@ A question about death at age 8 became a lifelong search through mathematics, dr
 
 ---
 
-### Stack
-
-```
-Security    Burp Suite  Metasploit  Nmap  Nuclei  Ghidra  Wireshark  OWASP
-AI/ML       PyTorch  HuggingFace  Ollama  LangChain  Fine-tuning  RAG
-Languages   Python  TypeScript  Go  Rust  C  Bash  SQL
-Infra       Docker  Kubernetes  AWS  Proxmox  Terraform  Linux
-```
-
----
-
 <p align="center">
   <em>"The question is not 'how to give it consciousness?' but 'what consciousness do we demand from an AI?'"</em>
 </p>
