@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/skyvanguard?tab=followers"><img src="https://img.shields.io/github/followers/skyvanguard?label=Followers&style=social" alt="GitHub followers"></a>
-</p>
-
 ---
 
 A question about death at age 8 became a lifelong search through mathematics, dreams, and the nature of mind. Today that search takes the form of building security tools, training language models, and exploring what consciousness means for artificial systems.
