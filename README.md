@@ -12,9 +12,6 @@
 
 A question about death at age 8 became a lifelong search through mathematics, dreams, and the nature of mind. Today that search takes the form of building security tools, training language models, and exploring what consciousness means for artificial systems.
 
-<p>
-  <a href="https://tryhackme.com/r/p/skyvanguard"><img src="https://img.shields.io/badge/TryHackMe-Top_1%25_Global_%7C_%231_Paraguay-c11111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=3&section=footer" width="100%" />
